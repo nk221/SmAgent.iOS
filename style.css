@@ -1,0 +1,15 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  margin-block-start: 0;
+}
+.logo-text {
+  font-size: 14pt;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+p {
+  margin: 10px;
+}
