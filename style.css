@@ -17,3 +17,16 @@ p {
 .block-centered{
   text-align: center; margin-left: auto; margin-right: auto; width: 500px;
 }
+
+li{
+  margin-bottom : 10px;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+ul{
+  margin-top : 10px;
+  margin-bottom : 10px;
+}
